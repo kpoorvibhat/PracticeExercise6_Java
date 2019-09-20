@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f092efc0-c1bc-422a-b90e-414512ac593e" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1R5htf4NJHXoIoKjEDBi8w1Fdmh" />
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.TransformStringLambdaStreamDemoTest">
+    <configuration name="FilterStringLambdaStreamDemoTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PE6" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stackroute.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.stackroute" />
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.FilterStringLambdaStreamDemoTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FilterStringLambdaStreamDemoTest.testUpperCaseLambdaStream_GivenStringList_ShouldReturnUpperCaseStringList" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PE6" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stackroute.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.stackroute" />
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.FilterStringLambdaStreamDemoTest" />
+      <option name="METHOD_NAME" value="testUpperCaseLambdaStream_GivenStringList_ShouldReturnUpperCaseStringList" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TransformStringLambdaStreamDemoTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PE6" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stackroute.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.stackroute" />
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.TransformStringLambdaStreamDemoTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TransformStringLambdaStreamDemoTest.testTransformString_GivenIntegerList_ShouldReturnString" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PE6" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stackroute.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.stackroute" />
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.TransformStringLambdaStreamDemoTest" />
+      <option name="METHOD_NAME" value="testTransformString_GivenIntegerList_ShouldReturnString" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UpperCaseLambdaStreamDemoTest.testUpperCaseLambdaStream_GivenStringList_ShouldReturnUpperCaseStringList" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PE6" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stackroute.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.stackroute" />
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.UpperCaseLambdaStreamDemoTest" />
+      <option name="METHOD_NAME" value="testUpperCaseLambdaStream_GivenStringList_ShouldReturnUpperCaseStringList" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TransformStringLambdaStreamDemoTest" />
+        <item itemvalue="JUnit.TransformStringLambdaStreamDemoTest.testTransformString_GivenIntegerList_ShouldReturnString" />
+        <item itemvalue="JUnit.FilterStringLambdaStreamDemoTest" />
+        <item itemvalue="JUnit.FilterStringLambdaStreamDemoTest.testUpperCaseLambdaStream_GivenStringList_ShouldReturnUpperCaseStringList" />
+        <item itemvalue="JUnit.UpperCaseLambdaStreamDemoTest.testUpperCaseLambdaStream_GivenStringList_ShouldReturnUpperCaseStringList" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f092efc0-c1bc-422a-b90e-414512ac593e" name="Default Changelist" comment="" />
+      <created>1568963080822</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1568963080822</updated>
+    </task>
+    <servers />
+  </component>
+</project>
